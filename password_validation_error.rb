@@ -1,0 +1,3 @@
+class PasswordValidationError < StandardError
+
+end
